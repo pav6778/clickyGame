@@ -1,0 +1,15 @@
+
+.header{
+  background-image: url("https://images.unsplash.com/photo-1575616652983-23b9a2987012?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3634&q=80") ;
+  background-size: cover;
+  background-position-y: 3400px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 50px;
+}
+h1{
+  font-weight: bolder;
+}

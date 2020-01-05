@@ -1,0 +1,76 @@
+[
+    {
+        "id" : 1,
+        "name" : "Alisa",
+        "image" : "../takkenchars/alisa.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 2,
+        "name" : "Asuka",
+        "image" : "../takkenchars/asuka.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 3,
+        "name" : "Claudio",
+        "image" : "../takkenchars/claudio.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 4,
+        "name" : "Feng",
+        "image" : "../takkenchars/feng.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 5,
+        "name" : "Heihachi",
+        "image" : "../takkenchars/heihachi.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 6,
+        "name" : "Katarina",
+        "image" : "../takkenchars/katarina.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 7,
+        "name" : "Kazuya",
+        "image" : "../takkenchars/kazuya.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 8,
+        "name" : "Lars",
+        "image" : "../takkenchars/lars.png",
+        "clicked" : false
+    }, 
+   
+    {
+        "id" : 9,
+        "name" : "Law",
+        "image" : "../takkenchars/law.png",
+        "clicked" : false
+    }, 
+   
+    {
+        "id" : 10,
+        "name" : "Lili",
+        "image" : "../takkenchars/lili.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 11,
+        "name" : "Paul",
+        "image" : "../takkenchars/paul.png",
+        "clicked" : false
+    }, 
+    {
+        "id" : 12,
+        "name" : "Shaheen",
+        "image" : "../takkenchars/shaheen.png",
+        "clicked" : false
+    }
+]

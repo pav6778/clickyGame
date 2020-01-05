@@ -1,0 +1,15 @@
+.wrapper {
+    padding-top: 50px;
+    background: #ECEFF1;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 3%;
+    justify-content: space-between;
+    
+    overflow: auto;
+  }
+  .container {
+    background-color: rgb(91, 91, 91) !important;
+
+}
