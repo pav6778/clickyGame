@@ -2,63 +2,63 @@
     {
         "id" : 1,
         "name" : "Alisa",
-        "image" : "./takkenchars/alisa.png"
+        "image" : "build/takkenchars/alisa.png"
     }, 
     {
         "id" : 2,
         "name" : "Asuka",
-        "image" : "./takkenchars/asuka.png"
+        "image" : "build/takkenchars/asuka.png"
     }, 
     {
         "id" : 3,
         "name" : "Claudio",
-        "image" : "./takkenchars/claudio.png"
+        "image" : "build/takkenchars/claudio.png"
     }, 
     {
         "id" : 4,
         "name" : "Feng",
-        "image" : "./takkenchars/feng.png"
+        "image" : "build/takkenchars/feng.png"
     }, 
     {
         "id" : 5,
         "name" : "Heihachi",
-        "image" : "./takkenchars/heihachi.png"
+        "image" : "build/takkenchars/heihachi.png"
     }, 
     {
         "id" : 6,
         "name" : "Katarina",
-        "image" : "./takkenchars/katarina.png"
+        "image" : "build/takkenchars/katarina.png"
     }, 
     {
         "id" : 7,
         "name" : "Kazuya",
-        "image" : "./takkenchars/kazuya.png"
+        "image" : "build/takkenchars/kazuya.png"
     }, 
     {
         "id" : 8,
         "name" : "Lars",
-        "image" : "./takkenchars/lars.png"
+        "image" : "build/takkenchars/lars.png"
     }, 
    
     {
         "id" : 9,
         "name" : "Law",
-        "image" : "./takkenchars/law.png"
+        "image" : "build/takkenchars/law.png"
     }, 
    
     {
         "id" : 10,
         "name" : "Lili",
-        "image" : "./takkenchars/lili.png"
+        "image" : "build/takkenchars/lili.png"
     }, 
     {
         "id" : 11,
         "name" : "Paul",
-        "image" : "./takkenchars/paul.png"
+        "image" : "build/takkenchars/paul.png"
     }, 
     {
         "id" : 12,
         "name" : "Shaheen",
-        "image" : "./takkenchars/shaheen.png"
+        "image" : "build/takkenchars/shaheen.png"
     }
 ]
