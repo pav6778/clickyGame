@@ -2,75 +2,63 @@
     {
         "id" : 1,
         "name" : "Alisa",
-        "image" : "../takkenchars/alisa.png",
-        "clicked" : false
+        "image" : "../takkenchars/alisa.png"
     }, 
     {
         "id" : 2,
         "name" : "Asuka",
-        "image" : "../takkenchars/asuka.png",
-        "clicked" : false
+        "image" : "../takkenchars/asuka.png"
     }, 
     {
         "id" : 3,
         "name" : "Claudio",
-        "image" : "../takkenchars/claudio.png",
-        "clicked" : false
+        "image" : "../takkenchars/claudio.png"
     }, 
     {
         "id" : 4,
         "name" : "Feng",
-        "image" : "../takkenchars/feng.png",
-        "clicked" : false
+        "image" : "../takkenchars/feng.png"
     }, 
     {
         "id" : 5,
         "name" : "Heihachi",
-        "image" : "../takkenchars/heihachi.png",
-        "clicked" : false
+        "image" : "../takkenchars/heihachi.png"
     }, 
     {
         "id" : 6,
         "name" : "Katarina",
-        "image" : "../takkenchars/katarina.png",
-        "clicked" : false
+        "image" : "../takkenchars/katarina.png"
     }, 
     {
         "id" : 7,
         "name" : "Kazuya",
-        "image" : "../takkenchars/kazuya.png",
-        "clicked" : false
+        "image" : "../takkenchars/kazuya.png"
     }, 
     {
         "id" : 8,
         "name" : "Lars",
-        "image" : "../takkenchars/lars.png",
-        "clicked" : false
+        "image" : "../takkenchars/lars.png"
     }, 
    
     {
         "id" : 9,
         "name" : "Law",
-        "image" : "../takkenchars/law.png",
-        "clicked" : false
+        "image" : "../takkenchars/law.png"
     }, 
    
     {
         "id" : 10,
         "name" : "Lili",
-        "image" : "../takkenchars/lili.png",
-        "clicked" : false
+        "image" : "../takkenchars/lili.png"
     }, 
     {
         "id" : 11,
         "name" : "Paul",
-        "image" : "../takkenchars/paul.png",
-        "clicked" : false
+        "image" : "../takkenchars/paul.png"
     }, 
     {
         "id" : 12,
         "name" : "Shaheen",
-        "image" : "../takkenchars/shaheen.png",
-        "clicked" : false
+        "image" : "../takkenchars/shaheen.png"
     }
 ]

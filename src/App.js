@@ -22,6 +22,7 @@ class App extends Component {
     super(props);
     this.state = {
       Chars : TekkenChars,
+      clicked : [],
       message: {
         text: "Click to start the game",
         score: 0,
@@ -32,8 +33,36 @@ class App extends Component {
 
 clickHandle = id => {
 
+  //capturing the images already clicked 
+  const  x = this.state.clicked.concat(id);
+  
+  this.setState({message: {text: "", score: this.state.message.score + 1, topScore: this.state.message.topScore + 1}})
 
-  console.log(TekkenChars)
+  
+  console.log(this.state.clicked)
+  for(let i = 0; i < this.state.clicked.length; i++){
+    
+  if(this.state.clicked[i] === id){
+
+    this.setState({
+      clicked : [],
+      message: {
+        text: "Sorry, you lost! Try again?",
+        score: 0,
+        topScore: 0
+      }
+    })
+  }
+  
+  }
+  setTimeout(() => {
+    
+    this.setState({clicked: x})
+  }, 100);
+
+
+    
+
 
 };
 
