@@ -1,4 +1,4 @@
-                                                clickyGame assignment
+                                       clickyGame assignment
 
 # Tekken Memory Game
 

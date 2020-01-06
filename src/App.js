@@ -55,10 +55,10 @@ clickHandle = id => {
   }
   
   }
-  setTimeout(() => {
+
     
     this.setState({clicked: x})
-  }, 100);
+
 
 
     
